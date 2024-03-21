@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.card {
+    text-align: center;
+    font-size: large;
+    font-style: oblique;
+    font-weight: bold;
+    text-decoration-color: darkgrey;
+    background-color: #f9c784;
+    width: 400px;
+    margin: 20px auto
+}
+
+.imgctn {
+    text-align: center;
+    font-family: 'Times New Roman';
+    padding: 30px;
+}
